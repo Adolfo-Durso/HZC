@@ -1,3 +1,6 @@
+Este projeto foi desenvolvido durante o curso CSS: dispondo elementos com Flexbox e Grid da escola online de tecnologia Alura, e foi ministrado pelo 
+instrutor Matheus Alberto (https://github.com/ikyrie).
+Neste curso vimos a funcionalidade do flexbox e do grid,e como simplifica criar o layout de um site fazendo uso dessa função do Css.
 # Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
